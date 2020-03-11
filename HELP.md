@@ -5,7 +5,7 @@
    lncli [global options] command [command options] [arguments...]
    
 ## VERSION
-   0.8.2-beta commit=queue/v1.0.2-81-gf5b1d40b9af062179b5c77cf0b3e6414a8a0751d
+   0.9.0-beta commit=v0.9.0-beta-155-g1467cd4dd382f9de7dc7ee89d779324ee9d2b4da
    
 ## COMMANDS
 |command|description|
