@@ -1,5 +1,5 @@
 ## NAME
-   lncli - control plane for your Lightning Network Daemon (lnd)
+   lncli - control panel for your Lightning Network Daemon (lnd)
 
 ## USAGE
    lncli [global options] command [command options] [arguments...]
